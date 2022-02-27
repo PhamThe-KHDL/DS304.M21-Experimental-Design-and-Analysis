@@ -34,6 +34,13 @@ DS304.M21 - Thiết Kế và Phân Tích Thực Nghiệm
 
 
 
+
+## Môi Trường/Công Cụ Thực Hành
+
+- [Download the RStudio IDE](https://www.rstudio.com/products/rstudio/download/#download)
+- [Download R 4.1.2 for Windows](https://cran.r-project.org/bin/windows/base/)
+
+
 ## Tham Khảo Thêm
 
 
