@@ -12,9 +12,9 @@ DS304.M21 - Thiết Kế và Phân Tích Thực Nghiệm
 | Buổi | Ngày | Nội Dung | Tóm Tắt | LT/TH | Slide | Code | Video Record |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | 01 | 23/02/2022 | Giới Thiệu Thiết Kế và Phân Tích Thực Nghiệm |  | LT-01 | [Slide 1](https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%201.pdf) |  | [01 - Giới Thiệu Thiết Kế và Phân Tích Thực Nghiệm](https://youtu.be/YeExYOvLeV4) |
-| 02 | 10/03/2022 | Thống Kê Suy Diễn |  | LT-02 |  |  | [02 - Thống Kê Suy Diễn](https://youtu.be/WsFwFyOxWHs) |
-| 03 | 17/03/2022 | Thống Kê Suy Diễn |  | LT-03 |  |  | [03 - Thống Kê Suy Diễn](https://youtu.be/7bM8cZZrzdQ) |
-| 04 |  |  |  |  |  |  |  |
+| 02 | 10/03/2022 | Thống Kê Suy Diễn |  | LT-02 | [Slide 3](https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%203.pdf) |  | [02 - Thống Kê Suy Diễn](https://youtu.be/WsFwFyOxWHs) |
+| 03 | 17/03/2022 | Thống Kê Suy Diễn |  | LT-03 | [Slide 3](https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%203.pdf) |  | [03 - Thống Kê Suy Diễn](https://youtu.be/7bM8cZZrzdQ) |
+| 04 | 19/03/2022 |  |  |  |  |  |  |
 | 05 |  |  |  |  |  |  |  |
 | 06 |  |  |  |  |  |  |  |
 | 07 |  |  |  |  |  |  |  |
