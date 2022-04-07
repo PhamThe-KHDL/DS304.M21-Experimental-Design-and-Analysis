@@ -17,7 +17,7 @@ DS304.M21 - Thiết Kế và Phân Tích Thực Nghiệm
 | 04 | 19/03/2022 | Thống Kê Suy Diễn |  | LT-04 | [Slide 4](https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%204.pdf) |  | [04 - Thống Kê Suy Diễn](https://youtu.be/cNbJYKU7qGk) |
 | 05 | 24/03/2022 | Cơ Bản Về Thiết Kế Thí Nghiệm |  | LT-05 | [Slide 2](https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%202.pdf) <br /> [Slide 5](https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%205.pdf)|  | [05 - Cơ Bản Về Thiết Kế Thí Nghiệm](https://youtu.be/n5BPSBZjzjA) |
 | 06 | 31/03/2022 | Giải Bài Tập Về Nhà và Thiết Kế Thí Nghiệm Hoàn Toàn Ngẫu Nhiên |  | LT-06 | [Slide 5](https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%205.pdf) |  | Offline |
-| 07 | 07/04/2022 | Thiết Kế Thí Nghiệm Hoàn Toàn Ngẫu Nhiên |  | TL-07 | [Slide 5](https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%205.pdf) |  | Offline |
+| 07 | 07/04/2022 | Thiết Kế Thí Nghiệm Hoàn Toàn Ngẫu Nhiên |  | TL-07 | [Slide 5](https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%205.pdf) <br /> [Slide 6](https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%206.pdf) |  | Offline |
 | 08 |  |  |  |  |  |  |  |
 | 09 |  |  |  |  |  |  |  |
 | 10 |  |  |  |  |  |  |  |
