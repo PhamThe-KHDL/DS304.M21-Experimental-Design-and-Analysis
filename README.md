@@ -43,6 +43,11 @@ DS304.M21 - Thiết Kế và Phân Tích Thực Nghiệm
 
 ## Tham Khảo Thêm
 
+- Tra Bảng Phân Phối Student:
+
+https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/blob/main/L%C3%9D%20THUY%E1%BA%BET/t-table.png
+
+- 
 
 ## Thực hiện
 
