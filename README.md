@@ -49,8 +49,11 @@ DS304.M21 - Thiết Kế và Phân Tích Thực Nghiệm
     <img src="https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/blob/main/L%C3%9D%20THUY%E1%BA%BET/t-table.png" width="800" alt="T-table" />
 </center>
 
+- Tra Bảng Phân Phối Chi-Square:
 
-- 
+<center>
+    <img src="https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/blob/main/LÝ THUYẾT/chi-square_table.png" width="800" alt="Chi-square-table" />
+</center>
 
 ## Thực hiện
 
