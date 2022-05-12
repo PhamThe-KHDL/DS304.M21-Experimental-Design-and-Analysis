@@ -20,7 +20,7 @@ DS304.M21 - Thiết Kế và Phân Tích Thực Nghiệm
 | 07 | 07/04/2022 | Thiết Kế Thí Nghiệm Hoàn Toàn Ngẫu Nhiên |  | TL-07 | [Slide 5](https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%205.pdf) <br /> [Slide 6](https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%206.pdf) |  | Offline <br /> [07 - Thiết Kế Thí Nghiệm Hoàn Toàn Ngẫu Nhiên](https://youtu.be/XDxuVLUUNRY) |
 | 08 | 21/04/2022 | Thiết Kế Thí Nghiệm Hoàn Toàn Ngẫu Nhiên |  | LT-08 | [Slide 6](https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%206.pdf) <br /> [Slide 7](https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%207.pdf) |  | Offline <br /> [08 - Thiết Kế Thí Nghiệm Hoàn Toàn Ngẫu Nhiên](https://youtu.be/VpGMxxewSVQ) |
 | 09 | 28/04/2022 | Kiểm Tra Giữa Kỳ |  |  |  |  | Trắc Nghiệm Online Trên COURSES |
-| 10 |  |  |  |  |  |  |  |
+| 10 | 12/05/2022 | Thiết Kế Thí Nghiệm Hoàn Toàn Ngẫu Nhiên |  | LT-09 | [Slide 7](https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%207.pdf) |  | Offline |
 | 11 |  |  |  |  |  |  |  |
 | 12 |  |  |  |  |  |  |  |
 | 13 |  |  |  |  |  |  |  |
