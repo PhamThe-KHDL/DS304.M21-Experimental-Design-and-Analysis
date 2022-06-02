@@ -24,7 +24,7 @@ DS304.M21 - Thiết Kế và Phân Tích Thực Nghiệm
 | 11 | 17/05/2022 | Phân Tích Thiết Kế Thực Nghiệm |  | LT-10 | [Slide 8-9](https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%208-9.pdf) |  | Offline |
 | 12 | 19/05/2022 | Phân Tích Thiết Kế Thực Nghiệm, Randomized Complete Block Design |  | LT-11 | [Slide 8-9](https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%208-9.pdf) <br /> [Slide 10-11](https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%2010-11.pdf) |  | Offline |
 | 13 | 26/05/2022 | Randomized Complete Block Design |  | LT-12 | [Slide 10-11](https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/blob/main/L%C3%9D%20THUY%E1%BA%BET/Slide%2010-11.pdf) |  | Offline |
-| 14 |  |  |  |  |  |  |  |
+| 14 | 02/06/2022 | Kiểm Tra Lấy Điểm Quá Trình |  | LT-13 |  |  | Offline |
 | 15 |  |  |  |  |  |  |  |
 | 16 |  |  |  |  |  |  |  |
 
