@@ -35,7 +35,7 @@
 
 
 <center>
-    <img src="https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/blob/main/FINAL%20PROJECT/Quy%20Tr%C3%ACnh%20ANOVA.png" width="800" alt="ANOVA" />
+    <img src="https://github.com/PhamThe-KHDL/DS304.M21-Experimental-Design-and-Analysis/blob/main/FINAL%20PROJECT/Quy%20Tr%C3%ACnh%20ANOVA.png" width="300" alt="ANOVA" />
 </center>
 
 - Kết quả: Kết quả tốt nhất mà chúng tối đạt được là mô hình Support Vector Regression được huấn luyện trên bộ dữ liệu REMOVE ANOVA đơn thuộc tính, với độ đo **RMSE = 0.3789**
