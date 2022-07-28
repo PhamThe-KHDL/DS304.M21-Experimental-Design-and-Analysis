@@ -1,11 +1,11 @@
 # Phân Tích và Xây Dựng Mô Hình Dự Đoán Nồng Độ CO Trong Không Khí
 
 
-## Bộ dữ liệu: 
+## Bộ dữ liệu
 - [Air Quality Data Set](https://archive.ics.uci.edu/ml/datasets/Air+quality)
 
 
-## Nội dung đồ án:
+## Nội dung đồ án
 - Tìm hiểu về bộ dữ liệu
 - Xử lý dữ liệu:
   + Datatype
